@@ -1,6 +1,6 @@
 # Xshotter:
 
-Xshotter is a Python tool for taking screenshots of multiple target URLs.
+Xshotter is a Python tool for taking screenshots of multiple target URLs to overview the domain without manually visit one by one by reasercher.
 
 **Note**: This tool was originally created by [@mrxfact0r] a year ago and is now being shared with the community.
 
