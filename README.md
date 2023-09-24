@@ -18,6 +18,9 @@ Install the required dependencies:
 pip install -r requirements.txt
 
 ## Usage:
+
+## Recomended Browser: Chrome
+
 Run the tool with the following command:
 
 python3 Xshotter.py [Target Urls File] [Folder Path for Screenshots]
